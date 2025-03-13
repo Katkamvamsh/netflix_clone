@@ -1,5 +1,3 @@
-
-
 import Home from './pages/Home/Home'
 import { Route,Routes, useNavigate } from 'react-router-dom'
 import Login from './pages/Login/Login'

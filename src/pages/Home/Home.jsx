@@ -1,5 +1,4 @@
-
-import './Home.css';
+import './Home.css'
 import Navbar from '../../components/Navbar/Navbar';
 import hero_banner from '../../assets/hero_banner.jpg';
 import hero_title from '../../assets/hero_title.png';

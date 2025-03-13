@@ -67,7 +67,7 @@ position: relative;
 }
 .navbar-profile_container:hover .dropdown{
     display: block;
-};
+}
 .dark-navbar{
   background-color: #e71818;
 }
