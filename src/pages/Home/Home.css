@@ -8,7 +8,7 @@
 
 .hero-caption-container{
   position: absolute;
-  width: 100%; /* dont write 100px here */
+  width: 100%; 
   padding-left: 5%;
 bottom: 0%;
 
@@ -39,8 +39,7 @@ margin: 20px;
 }
 
 .hero_btns_container .btn  {
-  
-border-radius: 9px;
+  border-radius: 9px;
 padding: 7px 15px;
 gap: 20px;
 display:flex;
